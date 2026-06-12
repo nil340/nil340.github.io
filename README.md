@@ -17,11 +17,15 @@ Check out my portfolio below for all the blogs, confrences and CVEs.
 
 ## 🎥 Webinars
 
+* **Securing The Rise of Agentic AI** - [Link](https://www.cyberark.com/resources/webinars/securing-the-rise-of-agentic-ai-insights-from-cyberark-labs) 
+* **AI Browsers Vulnerabilities** - [Link](https://lp.cyberark.com/20260317-crashing-comet-cyberark-labs-registration.html)
+
 ---
 
 ## 🔬 Research Write-ups
 
 * **MCP Thrat Analysis** - [Read More](https://www.cyberark.com/resources/threat-research-blog/is-your-ai-safe-threat-analysis-of-mcp-model-context-protocol)
+
 ---
 
 ## 🛡️ Published CVEs
