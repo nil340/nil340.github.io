@@ -8,9 +8,9 @@ Check out my portfolio below for all the blogs, confrences and CVEs.
 
 ## 📢 Conferences & Speaking Engagements
 
-* **Black Hat Asia 2026** | *Speaker* 
+* Black Hat Asia 2026 | *Speaker* 
   * Bad Vibes - Pwning Coding Agents 70 Times With The Same Bugs. [See More](https://blackhat.com/asia-26/briefings/schedule/?#bad-vibes---pwning-coding-agents-70-times-with-the-same-bugs-50048)
-* **RSAC (RSA Conference) 2026** | *Speaker*
+* RSAC (RSA Conference) 2026 | *Speaker*
   * Crashing Browsers—How AI Agents Break the Browser Threat Model. [See More](https://www.rsaconference.com/Library/presentation/USA/2026/Crashing%20BrowsersHow%20AI%20Agents%20Break%20the%20Browser%20Threat%20Model)
 
 ---
