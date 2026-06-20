@@ -1,6 +1,5 @@
 
 <h1 style="display: none;">Nil Ashkenazi</h1>
-<h2 style="display: none;">Vulnerability Research Portfolio</h2>
 
 ### whoami
 
