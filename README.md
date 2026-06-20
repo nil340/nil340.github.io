@@ -1,6 +1,6 @@
-### Vulnerability Researcher
+### whoami
 
-Hi, I'm Nil. I specialize in vulnerability discovery and securing the cutting edge of agentic AI. Explore my portfolio below to find my latest research write-ups, security advisories, and conference presentations.
+Hi, I'm Nil. I love security research and specialize in discovering vulnerabilities and securing the AI era. Explore my portfolio to find my latest research write-ups, security advisories, and conference presentations.
 
 [![GitHub](https://img.shields.io/badge/GitHub-nil340-181717?style=flat&logo=github)](https://github.com/nil340)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nil_Ashkenazi-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/nil-ashkenazi/)
