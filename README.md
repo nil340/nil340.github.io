@@ -1,5 +1,3 @@
-# Nil Ashkenazi
-
 ### Vulnerability Researcher
 
 Hi, I'm Nil. I specialize in vulnerability discovery and securing the cutting edge of agentic AI. Explore my portfolio below to find my latest research write-ups, security advisories, and conference presentations.
