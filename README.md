@@ -50,6 +50,7 @@ Hi, I'm Nil. I love security research and specialize in discovering vulnerabilit
 | :--- | :--- | :--- |
 | **CVE-2026-25723** | Anthropic (Claude Code) | [GitHub Advisory](https://github.com/anthropics/claude-code/security/advisories/GHSA-mhg7-666j-cqg4)|
 | **CVE-2026-25722** | Anthropic (Claude Code) | [GitHub Advisory](https://github.com/anthropics/claude-code/security/advisories/GHSA-66q4-vfjg-2qhh)|
+| **Pending** | n8n | [GitHub Advisory](https://github.com/n8n-io/n8n/security/advisories/GHSA-vhf8-cg2h-cg3p)|
 | **CVE-2026-33660** | n8n | [GitHub Advisory](https://github.com/n8n-io/n8n/security/advisories/GHSA-58qr-rcgv-642v)|
 | **CVE-2026-27578** | n8n | [GitHub Advisory](https://github.com/n8n-io/n8n/security/advisories/GHSA-2p9h-rqjw-gm92)|
 | **CVE-2026-27577** | n8n | [GitHub Advisory](https://github.com/n8n-io/n8n/security/advisories/GHSA-vpcf-gvg4-6qwr)|
