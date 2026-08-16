@@ -48,6 +48,7 @@ Hi, I'm Nil. I love security research and specialize in discovering vulnerabilit
 
 | CVE ID | Target / Vendor | Security Advisory / PoC |
 | :--- | :--- | :--- |
+| **CVE-2026-47698** | vm2 | [GitHub Advisory](https://github.com/patriksimek/vm2/security/advisories/GHSA-cfcw-xp6x-25gj)|
 | **CVE-2026-25723** | Anthropic (Claude Code) | [GitHub Advisory](https://github.com/anthropics/claude-code/security/advisories/GHSA-mhg7-666j-cqg4)|
 | **CVE-2026-25722** | Anthropic (Claude Code) | [GitHub Advisory](https://github.com/anthropics/claude-code/security/advisories/GHSA-66q4-vfjg-2qhh)|
 | **Pending** | n8n | [GitHub Advisory](https://github.com/n8n-io/n8n/security/advisories/GHSA-vhf8-cg2h-cg3p)|
