@@ -16,7 +16,7 @@ Hi, I'm Nil. I love security research and specialize in discovering vulnerabilit
 ### **Black Hat Asia 2026** | *Speaker*
 > **Bad Vibes - Pwning Coding Agents 70 Times With The Same Bugs**
 > * An in-depth look at systemic flaws in AI-driven coding agents.
-> * [View Briefing & Schedule](https://blackhat.com/asia-26/briefings/schedule/?#bad-vibes---pwning-coding-agents-70-times-with-the-same-bugs-50048)
+> * [Watch The Talk](https://www.youtube.com/watch?v=7UCpHzFYF40)
 
 ### **RSAC (RSA Conference) 2026** | *Speaker*
 > **Crashing Browsers — How AI Agents Break the Browser Threat Model**
