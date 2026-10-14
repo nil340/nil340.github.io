@@ -17,11 +17,13 @@ Hi, I'm Nil. I love security research and specialize in discovering vulnerabilit
 > **Bad Vibes - Pwning Coding Agents 70 Times With The Same Bugs**
 > * An in-depth look at systemic flaws in AI-driven coding agents.
 > * [Watch The Talk](https://www.youtube.com/watch?v=7UCpHzFYF40)
+> * [Slides](BlackHat-ASIA2026-BadVibes.pdf)
 
 ### **RSAC (RSA Conference) 2026** | *Speaker*
 > **Crashing Browsers — How AI Agents Break the Browser Threat Model**
 > * Analyzing the vulnerabilities of agentic browsers and their new attack surface.
-> * [View Presentation](https://www.rsaconference.com/Library/presentation/USA/2026/Crashing%20BrowsersHow%20AI%20Agents%20Break%20the%20Browser%20Threat%20Model)
+> * [Watch The Talk](https://www.rsaconference.com/Library/presentation/USA/2026/Crashing%20BrowsersHow%20AI%20Agents%20Break%20the%20Browser%20Threat%20Model)
+> * [Slides](Crashing-Browsers-How-AI-Agents-Break-the-Browser-Threat-Model.pdf)
 
 ---
 
